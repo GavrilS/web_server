@@ -7,3 +7,5 @@ This is a simple web server build.
 python3 -m http.server
 
 # Custom web server
+
+- scripts under 'custom_python_webserver' folder
